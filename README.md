@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++: division by zero. The `bug.cpp` file contains the erroneous code, which attempts to divide an integer by zero.  The `bugSolution.cpp` file provides a solution to handle potential division by zero exceptions.  This example highlights the importance of input validation and error handling in C++ programming.
